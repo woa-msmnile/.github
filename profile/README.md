@@ -36,7 +36,7 @@ ___
   - [Googulator](https://github.com/Googulator/)
   - [Ben (Bingxing) Wang](https://github.com/imbushuo/)
   - Samuel Tulach and his [Rainbow Patcher](https://github.com/SamuelTulach/rainbow)
-  - [Renegade-Porject](https://github.com/edk2-porting)
+  - [Renegade Project](https://github.com/edk2-porting)
 
 # Licenses
  - __The MU-sm8150pkg is based on [WOA-Project/SurfaceDuoPkg](https://github.com/WOA-Project/SurfaceDuoPkg/).__
