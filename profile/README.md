@@ -39,9 +39,9 @@ ___
   - [Renegade Project](https://github.com/edk2-porting)
 
 # Licenses
- - __The MU-sm8150pkg is based on [WOA-Project/SurfaceDuoPkg](https://github.com/WOA-Project/SurfaceDuoPkg/).__
+ - __The [MU-sm8150pkg repo](https://github.com/woa-msmnile/mu-sm8150pkg) is based on [WOA-Project/SurfaceDuoPkg](https://github.com/WOA-Project/SurfaceDuoPkg/).__
    - All code except drivers in GPLDriver directory are licensed under BSD 2-Clause. GPL Drivers are licensed under GPLv2 license.
- - __The Driver repo is based on [WOA-Project/SurfaceDuo-Drivers](https://github.com/WOA-Project/SurfaceDuo-Drivers).__  
+ - __The [msmnile-Drivers repo](https://github.com/woa-msmnile/msmnile-Drivers) is based on [WOA-Project/SurfaceDuo-Drivers](https://github.com/WOA-Project/SurfaceDuo-Drivers).__  
  
    - __Copyright, License, Disclaimers and end user license agreement__
       **Below notice must be present in all redistributed portions of this software**
