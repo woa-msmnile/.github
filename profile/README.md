@@ -12,7 +12,9 @@
 ## WOA-msmnile
 > WOA means Windows On Arm  
 > msmnile is code name of Snapdragon 855 Platform.
-  - Home for the `main branch` mu-sm8150pkg and drivers for all supported sm8150 devices.
+  - Home for the `main branch` msmnilePkg and drivers for all supported sm8150 devices.
+  - Not only support Sm8150 Devices. We will support **more platforms** in the future !
+
 ___
 ### Q&A
   - Why not store it in [edk2-porting](https://github.com/edk2-porting) ?
